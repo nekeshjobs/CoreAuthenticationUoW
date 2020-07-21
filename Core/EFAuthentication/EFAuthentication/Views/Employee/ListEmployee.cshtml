@@ -1,0 +1,25 @@
+﻿@model IEnumerable<Common.Model.EmployeeModel>
+@{
+    ViewData["Title"] = "LIST EMPLOYEE";
+}
+<h1>@ViewData["Title"]</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>First name</th>
+            <th>Last name</th>
+            <th>Salary</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Common.Model.EmployeeModel item in Model)
+        {
+            <tr>
+                <td>@item.FirstName</td>
+                <td>@item.LastName</td>
+                <td>@item.Salary</td>
+            </tr>
+        }
+    </tbody>
+</table>

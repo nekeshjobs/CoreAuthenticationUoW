@@ -1,0 +1,16 @@
+E:\NekeshPractice\Core\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+E:\NekeshPractice\Core\Services\bin\Debug\netcoreapp3.1\Services.dll
+E:\NekeshPractice\Core\Services\bin\Debug\netcoreapp3.1\Services.pdb
+E:\NekeshPractice\Core\Services\bin\Debug\netcoreapp3.1\Entities.dll
+E:\NekeshPractice\Core\Services\bin\Debug\netcoreapp3.1\Repository.dll
+E:\NekeshPractice\Core\Services\bin\Debug\netcoreapp3.1\Repository.pdb
+E:\NekeshPractice\Core\Services\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\NekeshPractice\Core\Services\obj\Debug\netcoreapp3.1\Services.csprojAssemblyReference.cache
+E:\NekeshPractice\Core\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+E:\NekeshPractice\Core\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+E:\NekeshPractice\Core\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+E:\NekeshPractice\Core\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+E:\NekeshPractice\Core\Services\obj\Debug\netcoreapp3.1\Services.dll
+E:\NekeshPractice\Core\Services\obj\Debug\netcoreapp3.1\Services.pdb
+E:\NekeshPractice\Core\Services\bin\Debug\netcoreapp3.1\Common.dll
+E:\NekeshPractice\Core\Services\bin\Debug\netcoreapp3.1\Common.pdb

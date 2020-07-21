@@ -1,0 +1,9 @@
+E:\NekeshPractice\Core\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+E:\NekeshPractice\Core\Common\bin\Debug\netcoreapp3.1\Common.dll
+E:\NekeshPractice\Core\Common\bin\Debug\netcoreapp3.1\Common.pdb
+E:\NekeshPractice\Core\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+E:\NekeshPractice\Core\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+E:\NekeshPractice\Core\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+E:\NekeshPractice\Core\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+E:\NekeshPractice\Core\Common\obj\Debug\netcoreapp3.1\Common.dll
+E:\NekeshPractice\Core\Common\obj\Debug\netcoreapp3.1\Common.pdb
