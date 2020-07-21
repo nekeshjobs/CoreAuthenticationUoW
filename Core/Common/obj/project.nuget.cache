@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zw+4BVmm+trVQfZaeCOtoKQxjVItav6LAPW39nHyb0hAInuikM3NXD8CGSvnAVMZbkn0b41NIfYp0AR3asMxUw==",
+  "dgSpecHash": "/uEjStOTST67zpSwmSsmFUocflcAph2BRh0NbZyobiPsQJ7zDQFyT7aWwoc/qi1J6pHr8s7TNpe48eEH3APpBA==",
   "success": true,
-  "projectFilePath": "E:\\NekeshPractice\\Core\\Common\\Common.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\win10\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "projectFilePath": "E:\\NekeshGit\\Core\\Common\\Common.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
